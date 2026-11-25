@@ -3,7 +3,7 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'PROBET',
+  title: 'NSN999',
   description: 'A quiet welcome before continuing to our main website.',
   generator: 'v0.app',
   icons: {
