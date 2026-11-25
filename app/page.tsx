@@ -3,7 +3,7 @@
 
 import { useEffect, useRef } from 'react'
 
-const MAIN_WEBSITE_URL = 'https://probet13.com/user/home.php'
+const MAIN_WEBSITE_URL = 'https://nsn999.com/'
 const IMAGE_URL = '/images/banner.png'
 const REDIRECT_DELAY_MS = 1000
 
